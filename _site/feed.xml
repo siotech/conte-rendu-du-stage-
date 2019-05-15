@@ -1,151 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Dude</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>Madjid Rafael</title>
+    <description>Bienvenu sur le portfolio de Rafael, ce blog vous présente mon parcours professionel, bonne lecture.</description>
     <link>http://localhost:4000/jekyll-wing-template/</link>
     <atom:link href="http://localhost:4000/jekyll-wing-template/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 May 2019 11:36:27 +0300</pubDate>
-    <lastBuildDate>Wed, 15 May 2019 11:36:27 +0300</lastBuildDate>
+    <pubDate>Wed, 15 May 2019 13:25:08 +0300</pubDate>
+    <lastBuildDate>Wed, 15 May 2019 13:25:08 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Fifth Week</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Rapport de stage du 06 au 13 mai 2019&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8h00 :&lt;/strong&gt;
+Aujourd’huit semaine scécial,  j’ai commencer par une vérification de mon serveur apache2 est de ma basse de donner Mysql, passage au test le site à ça globalité, recherche de faille, d’anomalie, ensuite passage au test du logiciel de paiement en ligne, quelque interventin de la base de donner qui presenter un anomalie de niveau un, redécouvre des nouvelles fonctionnalités sur le progiciel wordpresse. est enfin interoger le chef pour avoir quelque ideé bien précis est adapter au travail demander.
+&lt;strong&gt;9h30 à 11h20&lt;/strong&gt;
+Accompagnement des livreur pour quelque livraison, ACOUA, TZINGONI, DEMBENI.
+recherche d’heberger est nom de domaine pour le site bien sûr.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12h00 à 14h00 :  pause&lt;/strong&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Reprends le travail à son statues, mise a jour des logiciel du tableau de bord de worpresse, j’ai essaie de herberger le site sur un heberger graduit, avec une exportation de la base Mysql sous format modifiable est installation du logiciel firezilla.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16h00 :&lt;/strong&gt; 
+Fini le travail, se rendre au collège  K2 pour prendre le bus.
+&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 19 Jul 2016 12:49:45 +0300</pubDate>
-        <link>http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 10 May 2019 05:00:00 +0300</pubDate>
+        <link>http://localhost:4000/jekyll-wing-template/2019/05/10/fifth-week.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/2019/05/10/fifth-week.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Fourth Week</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Rapport de stage du 29 avril 2019 au 04 mai 2019&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8h00 :&lt;/strong&gt;
+Comme tout les matin j’ai commencer par une vérification de mon serveur apache2 s’il était bien allumé est en bonne fonctionnement est de ma basse de donner Mysql, modification de certaines page aprés test, ensuite des petit test pour la page de paiement en ligne,installation de nouvelle mode de paiement sûr, sécuriser est conforme, redécouvre des nouvelles fonctionnalités sur le progiciel wordpresse,  est enfin interoger le chef pour avoir quelque ideé bien précis est adapter au travail demander.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12h00 à 14h00 :  pause&lt;/strong&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;reprends le travail à son statues, mise a jour des logiciel du tableau de bord de worpresse, quelque extension a installer est à mettre à jours. 
+En fin rangement du matériel dans un lieu sécurisé est sur vidéo surveillance 
+&lt;strong&gt;16h00 :&lt;/strong&gt; 
+fini le travail, se rendre au collège  K2 pour prendre le bus.
+&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 19 Jul 2016 12:49:45 +0300</pubDate>
-        <link>http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <pubDate>Fri, 03 May 2019 05:00:00 +0300</pubDate>
+        <link>http://localhost:4000/jekyll-wing-template/2019/05/03/fourth-week.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/2019/05/03/fourth-week.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Third Week</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Rapport de stage du 22 au 27 avril 2019&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8h00 :&lt;/strong&gt;
+Installer de mon matériel de travail, reprise la ou je m’étais arrêté la dernière fois le vendredi 12 avril 2019,j’ai commencer par une vérification de mon serveur apache2 s’il était bien allumé est en bonne fonctionnement, ajout des nouveaux produits est création des nouvelles templete eest ajout de nouveaux sous catégorie pour la page boutique,  installation du nouveau système de paiement stripe, configuration de ce dernier.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;12h00 à 14h00 : Pause&lt;/strong&gt; 
+&lt;strong&gt;14h00 à 16h00 :&lt;/strong&gt;
+Continuation de mon projet, modification et ajout de nouvelles produits est les informations nécessaires à la vente. Mise à jour du logiciel wordpresse est ses extensions, vérification des commande près commander (test).
+&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Jul 2016 12:49:45 +0300</pubDate>
-        <link>http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <pubDate>Fri, 26 Apr 2019 05:00:00 +0300</pubDate>
+        <link>http://localhost:4000/jekyll-wing-template/2019/04/26/third-week.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/2019/04/26/third-week.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Second Week</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Rapport de stage du 15 au 20 avril 2019&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8h00 :&lt;/strong&gt;
+j’ai commencer par une vérification de mon serveur apache2 s’il était bien allumé est en bonne fonctionnement,
+Allumage du serveur apache2 vérification s’il fonctionne normalement, connections à ma base de données MySQL, ajout de nouvelles page, chaque page sa catégorie est sont utilité, modification de la page d’accueil à sa globalité, ajout de texte, d’images à caractère propriétaire, redécouvre des nouvelles fonctionnalités sur le progiciel wordpresse,  est enfin visite du chef sur la progression du travaille demander.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12h00 à 14h00 :  pause&lt;/strong&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;reprends le travail à son statues, passer au test du site à sa globalité,  paramètres est configuration dans 3 Catégories (téléphone, tablette et ordinateur ). 
+En fin rangement du matériel dans un lieu sécurisé est sur vidéo surveillance 
+&lt;strong&gt;16h00 :&lt;/strong&gt; 
+fini le travail, se rendre au collège  K2 pour prendre le bus.
+&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 19 Jul 2016 12:49:45 +0300</pubDate>
-        <link>http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <pubDate>Fri, 19 Apr 2019 05:00:00 +0300</pubDate>
+        <link>http://localhost:4000/jekyll-wing-template/2019/04/19/second-week.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/2019/04/19/second-week.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>First Week</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Rapport de stage du 08 au 13 avril 2019 :&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8h00 :&lt;/strong&gt;
+J’ai commencé avec une reprise du service avec un petit brevique présentation du personnel, j’ai commencé par le service d’accueil relation clientèle ensuite le service de livraison l’emballage des produit à livrer, est en fin j’ai repris mon service qui est je cite la création de site internet dédiés à l’entreprise,instalation du serveur apache2 est de MysQl sur mon ordianteur portable.je me suis connecter sur ma basse de données MySQL j’ai vérifié s’il y avait pas d’anormal, ensuite je me suis connecté sur l’interface wordpresse, avec l’identifiant et mot de passe, après j’ai commencé à créer des pages web, est en les remplissent petit à petit,  est j’ai du utiliser le logiciel gimp pour la modification des photos est images, en fin j’ai créé la page d’accueil et une pages (promos) est j’ai commencé rédiger quelques lignes est remplie d’images propriétaires car l’accord dû du service ventes.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12h à 14h : pause&lt;/strong&gt;
+Repris le service en me spécialisant par les différents services “ ventes, accueille relation client, service livraison “.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;15h40 à 16h00 :&lt;/strong&gt; 
+rangement du matériel au bureau de mon responsable Mme….
+Enfin se rendre au lycée professionnelle de kaweni pour le bus.(le collège k2 fermé ses portes à 12h tous les mercredi)
+&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Jul 2016 12:49:45 +0300</pubDate>
-        <link>http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/jekyll/update/2016/07/19/welcome-to-jekyll-Copy.html</guid>
+        <pubDate>Fri, 12 Apr 2019 05:00:00 +0300</pubDate>
+        <link>http://localhost:4000/jekyll-wing-template/2019/04/12/first-week.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-wing-template/2019/04/12/first-week.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
